@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: El directorio intermedio (D:\LAB_MU\Cliente\source\Global Debug\) contiene archivos compartidos de otro proyecto (Main.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  ZzzBMD.cpp
+BlackWin.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/INCREMENTAL:NO'
+     Creando biblioteca D:\LAB_MU\Cliente\Global Debug\Main_Base.lib y objeto D:\LAB_MU\Cliente\Global Debug\Main_Base.exp
+  Main.vcxproj -> D:\LAB_MU\Cliente\Global Debug\Main_Base.exe
